@@ -1,0 +1,13 @@
+.home_imgs{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   gap: 20px;
+}
+
+.homeimg{
+    width: 600px;
+    height: 500px;
+    border-radius: 30px;
+    border: 0.5px solid rgb(139, 44, 44);
+}

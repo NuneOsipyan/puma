@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.for_scroll_ab{
+  height: 800px;
+}
+
+.for_scroll{
+height: 1100px;
+}
+
+.for_scroll_con{
+  height: 500px;
+  margin-top: 30px;
+}
+

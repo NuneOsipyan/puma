@@ -1,0 +1,7 @@
+.footer_text{
+    background-color:  rgb(139, 44, 44,0.5);
+    height: 50px;
+    border-radius: 30px;
+    display: flex;
+   justify-content: center;
+}
